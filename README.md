@@ -33,7 +33,7 @@ http://localhost:8080/swagger-ui/
 One advantage with swagger is it provides some default json that might work.
 
 Here are the list of available endpoints:
-![Available endpoints](img.png)
+![Available endpoints](src/main/resources/img.png)
 
 
 
